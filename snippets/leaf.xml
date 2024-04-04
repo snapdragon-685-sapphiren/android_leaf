@@ -82,6 +82,8 @@
   </project>
   <remove-project name="platform/external/gptfdisk" />
   <project path="external/gptfdisk" name="LeafOS-Project/android_external_gptfdisk" groups="pdk,lineage" />
+  <remove-project name="platform/external/libcxx" />
+  <project path="external/libcxx" name="LeafOS-Project/android_external_libcxx" groups="pdk,lineage" />
   <remove-project name="platform/external/setupcompat" />
   <project path="external/setupcompat" name="LeafOS-Project/android_external_setupcompat" groups="pdk" />
   <remove-project name="platform/external/tinycompress" />
