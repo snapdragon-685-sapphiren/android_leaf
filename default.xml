@@ -6,6 +6,10 @@
            review="https://android-review.googlesource.com/"
            revision="refs/tags/android-14.0.0_r37" />
 
+  <remote  name="HorizonDroidLab"
+           fetch="https://github.com/HorizonDroidLab"
+           revision="refs/heads/14" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-14.0.0_r37"/>
   <contactinfo bugurl="go/repo-bug" />
 
